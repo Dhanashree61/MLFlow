@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/764903915387109341/fe741da57a354ec7828458631684357e/artifacts
+end_time: 1744700545595
+entry_point_name: ''
+experiment_id: '764903915387109341'
+lifecycle_stage: active
+run_id: fe741da57a354ec7828458631684357e
+run_name: secretive-duck-883
+run_uuid: fe741da57a354ec7828458631684357e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744700518583
+status: 3
+tags: []
+user_id: dk82348

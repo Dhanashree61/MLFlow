@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk82348/Desktop/MLflow_basic/mlruns/165999298334607493/76a93bf7518e454fb9d7542b9533fc33/artifacts
+end_time: 1744116895182
+entry_point_name: ''
+experiment_id: '165999298334607493'
+lifecycle_stage: active
+run_id: 76a93bf7518e454fb9d7542b9533fc33
+run_name: amusing-owl-829
+run_uuid: 76a93bf7518e454fb9d7542b9533fc33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744116853458
+status: 3
+tags: []
+user_id: dk82348

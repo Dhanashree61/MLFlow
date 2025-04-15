@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk82348/Desktop/MLflow_basic/Model_Evaluation/mlruns/295786548691282935/497587085a4d4336888a8ec5b726d1b0/artifacts
+end_time: 1744623249806
+entry_point_name: ''
+experiment_id: '295786548691282935'
+lifecycle_stage: active
+run_id: 497587085a4d4336888a8ec5b726d1b0
+run_name: secretive-ape-390
+run_uuid: 497587085a4d4336888a8ec5b726d1b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744623249551
+status: 4
+tags: []
+user_id: dk82348

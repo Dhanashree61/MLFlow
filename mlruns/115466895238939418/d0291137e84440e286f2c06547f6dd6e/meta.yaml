@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/115466895238939418/d0291137e84440e286f2c06547f6dd6e/artifacts
+end_time: 1744634469953
+entry_point_name: ''
+experiment_id: '115466895238939418'
+lifecycle_stage: active
+run_id: d0291137e84440e286f2c06547f6dd6e
+run_name: illustrious-croc-628
+run_uuid: d0291137e84440e286f2c06547f6dd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744634440904
+status: 3
+tags: []
+user_id: dk82348

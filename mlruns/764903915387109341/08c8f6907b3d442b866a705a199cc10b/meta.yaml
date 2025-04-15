@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/764903915387109341/08c8f6907b3d442b866a705a199cc10b/artifacts
+end_time: 1744697057323
+entry_point_name: ''
+experiment_id: '764903915387109341'
+lifecycle_stage: active
+run_id: 08c8f6907b3d442b866a705a199cc10b
+run_name: youthful-flea-711
+run_uuid: 08c8f6907b3d442b866a705a199cc10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744697050537
+status: 3
+tags: []
+user_id: dk82348

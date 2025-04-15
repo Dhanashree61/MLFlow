@@ -1,0 +1,1 @@
+[{"name": "gender", "type": "string"}, {"name": "race/ethnicity", "type": "string"}, {"name": "parental level of education", "type": "string"}, {"name": "lunch", "type": "string"}, {"name": "test preparation course", "type": "string"}, {"name": "reading score", "type": "integer"}, {"name": "writing score", "type": "integer"}]

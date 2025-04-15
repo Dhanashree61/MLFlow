@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk82348/Desktop/MLflow_basic/Model_Evaluation/mlruns/295786548691282935/af97ab8dd3fd4aba934de963282405b2/artifacts
+end_time: 1744623401921
+entry_point_name: ''
+experiment_id: '295786548691282935'
+lifecycle_stage: active
+run_id: af97ab8dd3fd4aba934de963282405b2
+run_name: selective-flea-794
+run_uuid: af97ab8dd3fd4aba934de963282405b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744623401787
+status: 4
+tags: []
+user_id: dk82348

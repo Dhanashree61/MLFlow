@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/764903915387109341/23ce4d3b62a3420394b061d0eadb6b54/artifacts
+end_time: 1744699797189
+entry_point_name: ''
+experiment_id: '764903915387109341'
+lifecycle_stage: active
+run_id: 23ce4d3b62a3420394b061d0eadb6b54
+run_name: skillful-smelt-854
+run_uuid: 23ce4d3b62a3420394b061d0eadb6b54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744699780084
+status: 3
+tags: []
+user_id: dk82348
